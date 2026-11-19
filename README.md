@@ -27,7 +27,7 @@ The rough dataset contained Order ID, Customer Name, Product, Region, Quantity, 
 
 ### Original Rough Data
 
-![Original Rough Data](Screenshots/01-raw-data.png)
+![Original Rough Data](Screenshots/raw-data.png)
 
 ## Step 1: Understanding the Dataset
 
@@ -92,7 +92,7 @@ This allowed me to document the problems I discovered, explain how I handled the
 
 ### Data Issue Log
 
-![Data Issue Log](Screenshots/04-data-issue-log.png)
+![Data Issue Log](Screenshots/data-issue-log.png)
 
 ## Step 8: Creating a Summary for the Team
 
@@ -102,13 +102,13 @@ The idea was to provide useful information that could help the team review the r
 
 ### Data Quality Summary
 
-![Data Quality Summary](Screenshots/05-summary-sheet.png)
+![Data Quality Summary](Screenshots/summary-sheet.png)
 
 ## Final Result
 
 After working through the different stages, I was able to transform the original rough sales data into a more organised and professionally presented spreadsheet.
 
-![Final Cleaned Dataset](Screenshots/03-cleaned-data.png)
+![Final Cleaned Dataset](Screenshots/cleaned-data.png)
 
 ## What I Have Learned So Far
 
